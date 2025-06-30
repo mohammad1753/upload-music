@@ -1,0 +1,8 @@
+PIL
+eyed3
+openpyxl
+requests
+bs4
+mutagen
+selenium
+tqdm
